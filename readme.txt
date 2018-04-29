@@ -1,0 +1,1 @@
+This is a traveling blog to practice html and css
