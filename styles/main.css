@@ -50,6 +50,7 @@ img:not(.icon):not(.floatright){
     margin-right: auto;
     width: 90%;
     box-shadow: 1px 1px black;
+    margin-bottom: 10px;
 }
 .floatright{
   float: right;
